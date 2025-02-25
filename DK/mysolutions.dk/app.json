@@ -10,7 +10,14 @@
   "help": "",
   "url": "",
   "logo": "",
-  "dependencies": [],
+  "dependencies": [
+    {
+    "id": "99ffbde4-1f17-48c2-94ed-a0e03336a153",
+    "name": "mysolutions.w1",
+    "publisher": "ERPD",
+    "version": "1.0.0.0"
+    }
+  ],
   "screenshots": [],
   "platform": "1.0.0.0",
   "application": "22.0.0.0",
